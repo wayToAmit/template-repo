@@ -1,10 +1,10 @@
-package com.backend.twitter;
+package com.backend.template;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TwitterApplicationTests {
+class TemplateTest {
 
 	@Test
 	void contextLoads() {
